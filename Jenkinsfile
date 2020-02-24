@@ -1,11 +1,6 @@
 pipeline {
   agent any
   stages {
-    stage('Clone') {
-      steps {
-        git 'https://github.com/allebb/jenkkube-demo.git'
-      }
-    }
 
     stage('Build') {
       steps {
