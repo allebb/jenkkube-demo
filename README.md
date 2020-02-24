@@ -8,7 +8,7 @@ The blog post can be found and [read here](#), please refer to that if you wish 
 
 ## Build and test the container locally first?
 
-You should first clone this repository to your own GitHub repository if you plan to follow along with the blog post as you will need to make changes to the included *Jenkinsfile*.
+**You should first clone this repository to your own GitHub repository if you plan to follow along with the blog post as you will need to make changes to the included *Jenkinsfile*.**
 
 If you want to test building and running the before we automate this with Jenkins, you can build the container locally using the following commands:
 
