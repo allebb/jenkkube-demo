@@ -1,10 +1,10 @@
 # Building, testing and deploying containerised application with Docker and Kubernetes.
 
-This repository exists as a working demo to accompany a [blog series](#) about building, testing, and deploying containerised apps to Kubernetes.
+This repository exists as a working demo to accompany a [blog series](https://blog.bobbyallen.me/2020/02/24/building-testing-and-pushing-container-images-to-a-docker-registry-using-jenkins-pipelines/) about building, testing, and deploying containerised apps to Kubernetes.
 
 This repository contains a simple containerised API service (built using Laravel) with a set of PHPUnit tests for demonstration purposes on how to automatically build, test, push (to a public or private Docker registry) and finally trigger a deployment to a Kubernetes cluster using Jenkins Pipelines.
 
-The blog post can be found and [read here](#), please refer to that if you wish for more info ;)
+The blog post can be found and [read here](https://blog.bobbyallen.me/2020/02/24/building-testing-and-pushing-container-images-to-a-docker-registry-using-jenkins-pipelines/), please refer to that if you wish for more info ;)
 
 ## Build and test the container locally first?
 
